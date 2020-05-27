@@ -1,0 +1,13 @@
+{
+  "name": "Prashant Sudeep",
+  "short_name": "Prashant Sudeep",
+  "icons": [
+    {
+      "src": "/static/meta/google-touch-icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

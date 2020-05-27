@@ -1,0 +1,37 @@
+{
+  "name": "ps-next",
+  "version": "1.0.0",
+  "description": "prashant sudeep website next js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "prashantsudeep",
+    "sipu",
+    "cpoo",
+    "website",
+    "personal"
+  ],
+  "author": "prashant sudeep",
+  "license": "ISC",
+  "dependencies": {
+    "@next/bundle-analyzer": "^9.4.2",
+    "next": "^9.4.2",
+    "next-seo": "^4.5.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "reflexbox": "^4.0.6",
+    "styled-components": "^5.1.1",
+    "theme-ui": "^0.3.1",
+    "use-dark-mode": "^2.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "typescript": "^3.9.3"
+  }
+}
